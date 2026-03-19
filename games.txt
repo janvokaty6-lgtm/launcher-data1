@@ -5,3 +5,5 @@ EXE: hra.exe
 COVER: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
 DESC: Moje super hra v 3D.
 FOTO1: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
+FOTO2: 
+FOTO3:
