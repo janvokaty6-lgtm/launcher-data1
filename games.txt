@@ -1,1 +1,15 @@
-3D test;https://github.com/janvokaty6-lgtm/launcher-data1/raw/main/hra.zip;1.0;hra.exe;https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/image_f1b3c0.png;This is a parkour game :).;https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/image_f06224.png
+NAME: 3D test
+URL: https://github.com/janvokaty6-lgtm/launcher-data1/raw/main/hra.zip
+VER: 1.0
+EXE: hra.exe
+COVER: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/image_f1b3c0.png
+DESC: Tohle je tvoje první fancy hra! Ted je to v games.txt mnohem prehlednejsi.
+FOTO1: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/image_f06224.png
+
+NAME: Druhá Hra
+URL: https://odkaz-na-zip.cz
+VER: 2.1
+EXE: game2.exe
+COVER: https://odkaz-na-cover.png
+DESC: Popis druhé hry...
+FOTO1: https://odkaz-na-foto.png
