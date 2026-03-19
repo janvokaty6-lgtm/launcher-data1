@@ -1,4 +1,4 @@
-NAME: 3D test
+NAME: kokot
 URL: https://github.com/janvokaty6-lgtm/launcher-data1/raw/main/hra.zip
 VER: 1.0
 EXE: hra.exe
