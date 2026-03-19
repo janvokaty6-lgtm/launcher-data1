@@ -7,3 +7,11 @@ DESC: Moje super hra v 3D.
 FOTO1: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
 FOTO2: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/13094497550503772160_9.jpg
 FOTO3: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/13094497550503772160_8.jpg
+
+NAME: nigga Simulator
+URL:
+VER:0.1
+EXE:
+COVER:
+DESC: nigga Simulator
+FOTO: 
