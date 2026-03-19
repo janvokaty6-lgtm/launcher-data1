@@ -1,4 +1,4 @@
-NAME: 3D test
+NAME: kripl
 URL: https://github.com/janvokaty6-lgtm/launcher-data1/raw/main/hra.zip
 VER: 1.0
 EXE: 3D-test.exe
