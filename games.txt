@@ -2,6 +2,6 @@ NAME: 3D test
 URL: https://github.com/janvokaty6-lgtm/launcher-data1/raw/main/hra.zip
 VER: 1.0
 EXE: hra.exe
-COVER: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/image_f1b3c0.png
+COVER: https://github.com/janvokaty6-lgtm/launcher-data1/blob/9cd9b20c374d9fa5f4290ed2bab8ae8b012f1759/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
 DESC: This is a parkour game :).
-FOTO1: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/image_f06224.png
+FOTO1: https://github.com/janvokaty6-lgtm/launcher-data1/blob/9cd9b20c374d9fa5f4290ed2bab8ae8b012f1759/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
