@@ -1,9 +1,12 @@
 NAME: 3D test
-URL: https://www.dropbox.com/scl/fi/8r5nlax96onlv8i0e1r8n/3D-test.zip?rlkey=7vu9awu78pldnpd3fc15ghdea&st=dg2e6c17&dl=1
-VER: 0.97
+URL: https://www.dropbox.com/scl/fi/8r5nlax96onlv8i0e1r8n/3D-test.zip?rlkey=7vu9awu78pldnpd3fc15ghdea&dl=1
+VER: 1.0
 EXE: 3D-test.exe
 COVER: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
-DESC: Moje super hra v 3D.
+DESC: A simple first-person platformer 
+
+---UPDATE---
+New colors, customizable names
 FOTO1: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/Sn%C3%ADmek%20obrazovky%202026-03-18%20232420.png
 FOTO2: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/13094497550503772160_9.jpg
 FOTO3: https://raw.githubusercontent.com/janvokaty6-lgtm/launcher-data1/main/13094497550503772160_8.jpg
