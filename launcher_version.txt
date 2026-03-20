@@ -1,2 +1,2 @@
-VER:1.0
+VER:1.1
 URL:https://www.dropbox.com/scl/fi/69y899jfqbb694rt3uq7l/launcher2.jar?rlkey=etbbv6z6ar7vb0az9jqx0gtwi&st=4wthh7j7&dl=1
